@@ -7,6 +7,9 @@ class App extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      theme: ThemeData(
+        primaryColor: Colors.deepOrange,
+      ),
       title: 'Flutter REST API',
       initialRoute: '/',
       routes: {
