@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Leo Reynolds",
+    "age": 32,
+    "email": "leo.reynolds@email.com",
+    "phone": "081565412003"
+  },
+  {
+    "id": 2,
+    "name": "Lynn Moran",
+    "age": 19,
+    "email": "lynn.moran@email",
+    "phone": "081992312885"
+  },
+  {
+    "id": 3,
+    "name": "Wendell Meyers",
+    "age": 56,
+    "email": "wendell.meyers@email.com",
+    "phone": "081234480120"
+  },
+  {
+    "id": 4,
+    "name": "Bruce Odom",
+    "age": 37,
+    "email": "bruce.odom@email.com",
+    "phone": "085661204339"
+  },
+  {
+    "id": 5,
+    "name": "Foster Drake",
+    "age": 40,
+    "email": "foster.drake@email.com",
+    "phone": "081902377564"
+  },
+  {
+    "id": 6,
+    "name": "Palmer Watson",
+    "age": 29,
+    "email": "palmer.watson@email.com",
+    "phone": "085761200438"
+  },
+  {
+    "id": 7,
+    "name": "Bennett Grant",
+    "age": 42,
+    "email": "bennet.grant@email.com",
+    "phone": "086554720331"
+  },
+  {
+    "id": 8,
+    "name": "Fleming Baker",
+    "age": 31,
+    "email": "fleming.baker@email.com",
+    "phone": "085667631004"
+  },
+  {
+    "id": 9,
+    "name": "Lennie Dickerson",
+    "age": 25,
+    "email": "lennie.dickerson@email.com",
+    "phone": "087654490225"
+  },
+  {
+    "id": 10,
+    "name": "Rene Jacobs",
+    "age": 22,
+    "email": "rene.jacobs@email.com",
+    "phone": "089092237820"
+  },
+  {
+    "id": 11,
+    "name": "Roger Patrick",
+    "age": 35,
+    "email": "roger.patrick",
+    "phone": "085761390559"
+  },
+  {
+    "id": 12,
+    "name": "Thornton Howell",
+    "age": 51,
+    "email": "thornton.howell@email.com",
+    "phone": "086542048550"
+  },
+  {
+    "id": 13,
+    "name": "Palmer Hunter",
+    "age": 47,
+    "email": "palmer.hunter@email.com",
+    "phone": "087672230120"
+  },
+  {
+    "id": 14,
+    "name": "Lilian Stark",
+    "age": 12,
+    "email": "lilian.stark@email.com",
+    "phone": "089382204559"
+  },
+  {
+    "id": 15,
+    "name": "Katy Conway",
+    "age": 30,
+    "email": "katy.conway@email.com",
+    "phone": "086754310440"
+  },
+  {
+    "id": 16,
+    "name": "Quincy Bauer",
+    "age": 21,
+    "email": "quincy.bauer@email.com",
+    "phone": "087641209330"
+  },
+  {
+    "id": 17,
+    "name": "Evelyn Sutton",
+    "age": 33,
+    "email": "evelyn.sutton@email.com",
+    "phone": "082352204775"
+  },
+  {
+    "id": 18,
+    "name": "Stanford Greer",
+    "age": 51,
+    "email": "standord.greer@email.com",
+    "phone": "087632144770"
+  },
+  {
+    "id": 19,
+    "name": "Wayne Ballard",
+    "age": 34,
+    "email": "wayne.ballard@email.com",
+    "phone": "083435321880"
+  },
+  {
+    "id": 20,
+    "name": "Stanley Small",
+    "age": 35,
+    "email": "stanley.small@email.com",
+    "phone": "081553320576"
+  }
+]
