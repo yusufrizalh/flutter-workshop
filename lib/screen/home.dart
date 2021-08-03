@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
-
 import '../environment.dart';
 import '../models/student.dart';
 import 'detail.dart';
+import './create.dart';
 
 class Home extends StatefulWidget {
   Home({Key key}) : super(key: key);
@@ -79,6 +79,13 @@ class HomeState extends State<Home> {
           },
         ),
       ),
+      floatingActionButton: FloatingActionButton(
+          child: Icon(Icons.add),
+          onPressed: () {
+            Navigator.push(context, MaterialPageRoute(builder: (_) {
+              return Create();
+            }));
+          }),
     );
   }
 }
